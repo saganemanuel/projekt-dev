@@ -1,1 +1,10 @@
 site_name: My Docs
+site_name: Projekt
+nav:
+  - Strona główna: index.md
+  - O projekcie: o_projekcie.md
+  - Autorzy: autorzy.md
+  - Teoria: teoria.md
+  - Przykłady: przyklady.md
+
+
