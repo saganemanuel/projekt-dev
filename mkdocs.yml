@@ -1,10 +1,12 @@
-site_name: My Docs
 site_name: Projekt
+theme:
+  name: material
+
 nav:
-  - Strona główna: index.md
   - O projekcie: o_projekcie.md
+  - Historia memów: historia_memow.md
+  - Rodzaje memów: rodzaje_memow.md
+  - Jak tworzyć memy: jak_tworzyc_memy.md
+  - Trendy i nowości: trendy_i_nowosci.md
+  - Ciekawostki: ciekawostki.md
   - Autorzy: autorzy.md
-  - Teoria: teoria.md
-  - Przykłady: przyklady.md
-
-
