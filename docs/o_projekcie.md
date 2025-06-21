@@ -12,4 +12,4 @@ Na stronie znajdą się takie sekcje jak:
 
 Strona zostanie przygotowana przy pomocy narzędzia MkDocs, co zapewni przejrzysty i nowoczesny wygląd oraz łatwą nawigację. Projekt realizowany jest zespołowo, a każdy z członków wnosi równy wkład w rozwój i zawartość strony.
 
-Efektem końcowym ma być wartościowy, estetyczny i dobrze opracowany materiał, który będzie ciekawy zarówno dla osób zainteresowanych internetową kulturą, jak i dla szerszego grona odbiorców.
+Efektem końcowym ma być wartościowy, estetyczny i dobrze opracowany materiał, który będzie ciekawy zarówno dla osób zainteresowanych internetową kulturą, jak i dla grona odbiorców.
