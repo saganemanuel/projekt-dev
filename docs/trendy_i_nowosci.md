@@ -19,7 +19,7 @@ Memy o inflacji, zmianach klimatycznych czy życiu codziennym młodych dorosłyc
 
 ## 3. Memy w formacie "relatable content"
 
-Memy opowiadające o codziennych doświadczeniach, z którymi utożsamia się wiele osób – szczególnie popularne na Instagramie i TikToku.
+Memy opowiadające o codziennych doświadczeniach, z którymi utożsamia się wiele osób – szczególnie popularne na Instagramie oraz TikToku.
 
 **Cechy:**  
 – Prosty przekaz  
